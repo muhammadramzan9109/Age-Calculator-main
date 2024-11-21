@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Age-Calculator.git
+    git clone https://github.com/muhammadramzan9109/Age-Calculator-main
     ```
 
 2. **Open the project directory**:
